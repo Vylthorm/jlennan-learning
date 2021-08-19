@@ -1,4 +1,4 @@
 select *
 from city
 where
-countrycode = 'JPN'
+countrycode = 'JPN';
